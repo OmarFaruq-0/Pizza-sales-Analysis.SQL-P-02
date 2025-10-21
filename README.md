@@ -30,6 +30,8 @@ The average order value indicates a good opportunity for combo offers.
 Sales trend visualization helps identify customer purchasing patterns over time.
 
 ## Tools Used
+**<img width="1901" height="877" alt="Screenshot 2025-10-19 235300" src="https://github.com/user-attachments/assets/6153d4ac-ef9b-485c-879a-7b97b39d3381" />
+
 
 MySQL – For data cleaning and KPI calculation
 
